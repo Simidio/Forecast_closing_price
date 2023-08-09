@@ -16,4 +16,3 @@ explanation of how Prophet works, the time series forecasting library developed 
 * Automatic Outlier Detection: Prophet automatically detects and handles outliers in the time series data. Outliers are treated as temporary deviations from the underlying trend and are not allowed to overly influence the forecast. Prophet uses a robust method to identify outliers and includes them in the modeling process without distorting the overall predictions.
 
 * Uncertainty Estimation: Prophet provides uncertainty intervals for the forecasted values. It generates both the point forecast and the upper and lower bounds of the prediction intervals. This allows users to assess the uncertainty associated with the forecasts and make informed decisions based on the range of possible outcomes.
-
